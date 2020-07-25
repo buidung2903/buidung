@@ -1,0 +1,14 @@
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\getapi.exe.config
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\getapi.exe
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\getapi.pdb
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\huedu\source\repos\getapi\getapi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.Form1.resources
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.Properties.Resources.resources
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.csproj.GenerateResource.cache
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.csproj.CoreCompileInputs.cache
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.csproj.CopyComplete
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.exe
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.pdb
+C:\Users\huedu\source\repos\getapi\getapi\obj\Debug\getapi.csprojAssemblyReference.cache
